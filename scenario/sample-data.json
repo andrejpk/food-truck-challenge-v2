@@ -1,0 +1,17 @@
+[
+  { "id": "T1",  "name": "El Taco Loco",       "cuisine": "Mexican",  "rating": 4.7, "distance": 1.2 },
+  { "id": "T2",  "name": "Mission Burritos",    "cuisine": "Mexican",  "rating": 4.7, "distance": 0.8 },
+  { "id": "T3",  "name": "Curry Up Now",        "cuisine": "Indian",   "rating": 4.9, "distance": 0.5 },
+  { "id": "T4",  "name": "SF Street Tacos",     "cuisine": "Mexican",  "rating": 4.6, "distance": 0.7 },
+  { "id": "T5",  "name": "Golden Dumpling",     "cuisine": "Chinese",  "rating": 4.8, "distance": 1.5 },
+  { "id": "T6",  "name": "Naan Stop",           "cuisine": "Indian",   "rating": 4.3, "distance": 0.3 },
+  { "id": "T7",  "name": "Baja Fish Grill",     "cuisine": "Mexican",  "rating": 4.9, "distance": 2.1 },
+  { "id": "T8",  "name": "Pho Wheels",          "cuisine": "Vietnamese", "rating": 4.5, "distance": 0.9 },
+  { "id": "T9",  "name": "The Wok Shop",        "cuisine": "Chinese",  "rating": 4.2, "distance": 0.4 },
+  { "id": "T10", "name": "Tikka Truck",         "cuisine": "Indian",   "rating": 4.9, "distance": 1.0 },
+  { "id": "T11", "name": "Burrito Blitz",       "cuisine": "Mexican",  "rating": 4.6, "distance": 0.7 },
+  { "id": "T12", "name": "Seoul on Wheels",     "cuisine": "Korean",   "rating": 4.4, "distance": 1.8 },
+  { "id": "T13", "name": "Szechuan Express",    "cuisine": "Chinese",  "rating": 4.8, "distance": 0.6 },
+  { "id": "T14", "name": "K-BBQ Truck",         "cuisine": "Korean",   "rating": 4.7, "distance": 0.5 },
+  { "id": "T15", "name": "Saigon Sandwich Co",  "cuisine": "Vietnamese", "rating": 4.5, "distance": 1.3 }
+]
