@@ -7,3 +7,4 @@ A coding challenge based on San Francisco's food truck data. See [scenario/food-
 | Language | Framework | Path |
 |----------|-----------|------|
 | Python | FastAPI | [code/python-fastapi](code/python-fastapi) |
+| Node.js/TypeScript | Fastify | [code/node-typescript-fastify](code/node-typescript-fastify) |
