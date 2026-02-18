@@ -8,3 +8,4 @@ A coding challenge based on San Francisco's food truck data. See [scenario/food-
 |----------|-----------|------|
 | Python | FastAPI | [code/python-fastapi](code/python-fastapi) |
 | Node.js/TypeScript | Fastify | [code/node-typescript-fastify](code/node-typescript-fastify) |
+| .NET 10 / C# | ASP.NET Core | [code/dotnet-aspnet](code/dotnet-aspnet) |
