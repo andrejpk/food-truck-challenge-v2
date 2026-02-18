@@ -1,0 +1,9 @@
+# Food Truck Challenge v2
+
+A coding challenge based on San Francisco's food truck data. See [scenario/food-truck-scenario.md](scenario/food-truck-scenario.md) for the problem description.
+
+## Starter Projects
+
+| Language | Framework | Path |
+|----------|-----------|------|
+| Python | FastAPI | [code/python-fastapi](code/python-fastapi) |
